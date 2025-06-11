@@ -1,179 +1,199 @@
-# API Nutritionnelle - Projet Universitaire
+# API de Recommandation Nutritionnelle - Version Simplifiée
 
-Une API RESTful complète pour des recommandations nutritionnelles, développée avec FastAPI, SQLModel et SQLite.
+## Description
 
-## 🚀 Fonctionnalités
+Cette API de recommandation nutritionnelle est une version simplifiée utilisant FastAPI, SQLModel et SQLite. Elle permet de gérer des aliments, utilisateurs, plans de repas et buffets avec authentification par token.
 
-- **Gestion des aliments** : CRUD complet pour les aliments avec informations nutritionnelles
-- **Gestion des utilisateurs** : Inscription, authentification et profils utilisateurs
-- **Recommandations nutritionnelles** : Algorithmes de recommandation basés sur les préférences
-- **API RESTful** : Interface complète avec documentation automatique
-- **Base de données SQLite** : Solution simple et portable
+## Fonctionnalités
 
-## 📋 Prérequis
+- **Gestion des aliments** : CRUD complet pour les aliments avec données nutritionnelles
+- **Gestion des utilisateurs** : Inscription, connexion et authentification par token
+- **Plans de repas** : Création et gestion de plans de repas personnalisés
+- **Buffets** : Gestion de buffets avec sélection d'aliments
+- **Données initiales** : Chargement automatique des données de repas canadiens
+- **API REST** : Interface Swagger/OpenAPI complète
 
-- Python 3.10 ou supérieur
-- pip (gestionnaire de paquets Python)
-
-## 🛠️ Installation
-
-### 1. Cloner le repository
-```bash
-git clone <votre-repo-url>
-cd tp_nutrition
-```
-
-### 2. Installer les dépendances
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Lancer l'application
-```bash
-./start.sh
-```
-
-Ou manuellement :
-```bash
-# Créer la base de données
-python3 -c "from app.database import engine; from app.models import Base; Base.metadata.create_all(bind=engine)"
-
-# Charger les données initiales
-python3 -c "from app.utils.data_loader import load_initial_data; load_initial_data()"
-
-# Démarrer l'API
-uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
-```
-
-## 🌐 Accès à l'API
-
-- **Interface Swagger** : http://localhost:8000/docs
-- **Documentation ReDoc** : http://localhost:8000/redoc
-- **Health Check** : http://localhost:8000/health
-
-## 📁 Structure du Projet
+## Structure du Projet
 
 ```
 tp_nutrition/
-├── app/
-│   ├── __init__.py
-│   ├── main.py                 # Point d'entrée de l'application
-│   ├── database.py             # Configuration de la base de données
-│   ├── models.py               # Modèles SQLModel
-│   ├── schemas.py              # Schémas Pydantic
-│   ├── routers/
-│   │   ├── __init__.py
-│   │   ├── auth.py             # Routes d'authentification
-│   │   ├── foods.py            # Routes des aliments
-│   │   ├── recommendations.py  # Routes des recommandations
-│   │   └── users.py            # Routes des utilisateurs
-│   ├── services/
-│   │   ├── __init__.py
-│   │   ├── auth_service.py     # Logique d'authentification
-│   │   ├── food_service.py     # Logique des aliments
-│   │   └── recommendation_service.py # Logique des recommandations
-│   └── utils/
-│       ├── __init__.py
-│       ├── data_loader.py      # Chargement des données initiales
-│       └── security.py         # Utilitaires de sécurité
-├── data/
-│   └── initial_data.json       # Données initiales
-├── requirements.txt            # Dépendances Python
-├── start.sh                    # Script de démarrage
-└── README.md                   # Documentation
+├── app/                    # Modules de l'application
+│   ├── routers/           # Routes API
+│   │   ├── auth.py        # Authentification
+│   │   ├── aliments.py    # Gestion des aliments
+│   │   ├── users.py       # Gestion des utilisateurs
+│   │   ├── plans.py       # Plans de repas
+│   │   └── buffets.py     # Gestion des buffets
+├── data/                  # Données initiales
+│   └── repas_canadiens.json
+├── tests/                 # Tests unitaires
+├── scripts/               # Scripts utilitaires
+├── models.py              # Modèles SQLModel
+├── schemas.py             # Schémas Pydantic
+├── database_simple.py     # Configuration base de données SQLite
+├── security_simple.py     # Authentification et sécurité
+├── utils_simple.py        # Utilitaires
+├── main_simple.py         # Point d'entrée principal
+├── requirements_simple.txt # Dépendances
+└── README.md              # Documentation
 ```
 
-## 🔧 Configuration
+## Installation et Démarrage
 
-L'application utilise SQLite par défaut. La base de données sera créée automatiquement dans le fichier `nutrition.db`.
+### Prérequis
 
-## 📊 Endpoints Principaux
+- Python 3.8+
+- pip
 
-### Authentification
-- `POST /auth/register` - Inscription d'un utilisateur
-- `POST /auth/login` - Connexion
-- `POST /auth/logout` - Déconnexion
+### Installation
 
-### Aliments
-- `GET /foods/` - Liste des aliments
-- `POST /foods/` - Créer un aliment
-- `GET /foods/{food_id}` - Détails d'un aliment
-- `PUT /foods/{food_id}` - Modifier un aliment
-- `DELETE /foods/{food_id}` - Supprimer un aliment
-
-### Recommandations
-- `GET /recommendations/` - Obtenir des recommandations
-- `POST /recommendations/` - Créer une recommandation personnalisée
-
-### Utilisateurs
-- `GET /users/me` - Profil utilisateur actuel
-- `PUT /users/me` - Modifier le profil
-
-## 🧪 Tests
-
-Pour tester l'API, vous pouvez utiliser :
-
-1. **L'interface Swagger** : http://localhost:8000/docs
-2. **curl** :
+1. **Cloner le projet**
 ```bash
-# Test de santé
-curl http://localhost:8000/health
+git clone <votre-repo-github>
+cd tp_nutrition
+```
 
-# Liste des aliments
-curl http://localhost:8000/foods/
+2. **Installer les dépendances**
+```bash
+pip install -r requirements_simple.txt
+```
 
-# Créer un aliment
-curl -X POST "http://localhost:8000/foods/" \
+3. **Démarrer l'API**
+```bash
+python main_simple.py
+```
+
+L'API sera accessible sur `http://localhost:8000`
+
+### Interface Swagger
+
+Accédez à la documentation interactive de l'API :
+- **Swagger UI** : http://localhost:8000/docs
+- **ReDoc** : http://localhost:8000/redoc
+
+## Utilisation de l'API
+
+### 1. Créer un utilisateur
+
+```bash
+curl -X POST "http://localhost:8000/auth/register" \
   -H "Content-Type: application/json" \
   -d '{
-    "name": "Pomme",
-    "calories": 52,
-    "proteins": 0.3,
-    "carbohydrates": 14,
-    "fats": 0.2,
-    "fiber": 2.4,
-    "category": "Fruits"
+    "email": "user@example.com",
+    "password": "password123",
+    "nom": "John Doe"
   }'
 ```
 
-## 📝 Exemple d'Utilisation
+### 2. Se connecter
 
-### Créer un nouvel aliment via Swagger UI
-
-1. Ouvrez http://localhost:8000/docs
-2. Trouvez l'endpoint `POST /foods/`
-3. Cliquez sur "Try it out"
-4. Remplissez le formulaire avec les données de l'aliment
-5. Cliquez sur "Execute"
-
-### Exemple de données pour un aliment :
-```json
-{
-  "name": "Banane",
-  "calories": 89,
-  "proteins": 1.1,
-  "carbohydrates": 23,
-  "fats": 0.3,
-  "fiber": 2.6,
-  "category": "Fruits",
-  "vitamins": "[\"B6\", \"C\"]",
-  "minerals": "[\"Potassium\", \"Magnesium\"]"
-}
+```bash
+curl -X POST "http://localhost:8000/auth/login" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "username": "user@example.com",
+    "password": "password123"
+  }'
 ```
 
-## 🚀 Déploiement
+### 3. Créer un aliment
 
-Cette version utilise SQLite, ce qui la rend portable et facile à déployer. Pour un environnement de production, considérez :
+```bash
+curl -X POST "http://localhost:8000/aliments/" \
+  -H "Authorization: Bearer YOUR_TOKEN" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "nom": "Pomme",
+    "calories": 52,
+    "proteines": 0.3,
+    "glucides": 14,
+    "lipides": 0.2,
+    "fibres": 2.4,
+    "categorie": "Fruits"
+  }'
+```
 
-1. Utiliser PostgreSQL ou MySQL
-2. Ajouter des variables d'environnement pour la configuration
-3. Implémenter une authentification plus robuste
-4. Ajouter des tests automatisés
+### 4. Consulter les aliments
 
-## 📞 Support
+```bash
+curl -X GET "http://localhost:8000/aliments/" \
+  -H "Authorization: Bearer YOUR_TOKEN"
+```
 
-Pour toute question ou problème, n'hésitez pas à ouvrir une issue sur GitHub.
+## Endpoints Principaux
 
-## 📄 Licence
+### Authentification
+- `POST /auth/register` - Inscription
+- `POST /auth/login` - Connexion
 
-Ce projet est développé dans le cadre d'un projet universitaire. 
+### Aliments
+- `GET /aliments/` - Liste des aliments
+- `POST /aliments/` - Créer un aliment
+- `GET /aliments/{id}` - Détails d'un aliment
+- `PUT /aliments/{id}` - Modifier un aliment
+- `DELETE /aliments/{id}` - Supprimer un aliment
+
+### Utilisateurs
+- `GET /users/me` - Profil utilisateur
+- `PUT /users/me` - Modifier le profil
+
+### Plans de Repas
+- `GET /plans/` - Liste des plans
+- `POST /plans/` - Créer un plan
+- `GET /plans/{id}` - Détails d'un plan
+
+### Buffets
+- `GET /buffets/` - Liste des buffets
+- `POST /buffets/` - Créer un buffet
+- `GET /buffets/{id}` - Détails d'un buffet
+
+## Tests
+
+Exécuter les tests unitaires :
+
+```bash
+python -m pytest tests/
+```
+
+## Données Initiales
+
+L'API charge automatiquement les données de repas canadiens au démarrage. Ces données sont stockées dans `data/repas_canadiens.json`.
+
+## Version Simplifiée
+
+Cette version utilise :
+- **SQLite** au lieu de PostgreSQL
+- **Pas de pgvector** ni d'embeddings
+- **Authentification simple** avec JWT
+- **Structure simplifiée** pour faciliter le développement
+
+## Développement
+
+### Structure des Modèles
+
+- **Aliment** : nom, calories, protéines, glucides, lipides, fibres, catégorie
+- **User** : email, nom, mot de passe hashé
+- **PlanRepas** : nom, description, aliments (JSON)
+- **Buffet** : nom, description, aliments (JSON)
+
+### Sécurité
+
+- Authentification par token JWT
+- Mots de passe hashés avec bcrypt
+- Validation des données avec Pydantic
+
+## Contribution
+
+1. Fork le projet
+2. Créer une branche pour votre fonctionnalité
+3. Commiter vos changements
+4. Pousser vers la branche
+5. Ouvrir une Pull Request
+
+## Licence
+
+Ce projet est destiné à des fins éducatives.
+
+## Contact
+
+Pour toute question concernant ce projet, contactez votre professeur.  

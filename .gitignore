@@ -32,6 +32,8 @@ venv.bak/
 *.db
 *.sqlite
 *.sqlite3
+nutrition.db
+nutrition_test.db
 
 # IDE
 .vscode/
@@ -58,6 +60,7 @@ Thumbs.db
 .env.development.local
 .env.test.local
 .env.production.local
+config.env
 
 # Docker (if you want to keep them for reference)
 # docker-compose.yml

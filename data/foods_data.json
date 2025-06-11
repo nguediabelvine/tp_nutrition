@@ -1,0 +1,3333 @@
+[
+  {
+    "name": "Sole cuit",
+    "calories": 245,
+    "proteins": 27.4,
+    "carbohydrates": 0,
+    "fats": 7.4,
+    "fiber": 0,
+    "category": "Poissons",
+    "vitamins": [
+      "A",
+      "B12",
+      "B6"
+    ],
+    "minerals": [
+      "Potassium",
+      "Sélénium",
+      "Magnesium"
+    ]
+  },
+  {
+    "name": "Mûre",
+    "calories": 86,
+    "proteins": 0.8,
+    "carbohydrates": 15.0,
+    "fats": 0.5,
+    "fiber": 3.9,
+    "category": "Fruits",
+    "vitamins": [
+      "C"
+    ],
+    "minerals": [
+      "Fer",
+      "Cuivre",
+      "Magnesium"
+    ]
+  },
+  {
+    "name": "Rouget cuit",
+    "calories": 231,
+    "proteins": 19.7,
+    "carbohydrates": 0,
+    "fats": 4.5,
+    "fiber": 0,
+    "category": "Poissons",
+    "vitamins": [
+      "B6",
+      "A",
+      "B12",
+      "D"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Sélénium",
+      "Potassium",
+      "Magnesium"
+    ]
+  },
+  {
+    "name": "Marjolaine",
+    "calories": 39,
+    "proteins": 3.2,
+    "carbohydrates": 17.4,
+    "fats": 0.3,
+    "fiber": 5.7,
+    "category": "Légumes",
+    "vitamins": [
+      "B6",
+      "B7"
+    ],
+    "minerals": [
+      "Molybdène",
+      "Sodium",
+      "Iode"
+    ]
+  },
+  {
+    "name": "Perdrix grillé(e)",
+    "calories": 152,
+    "proteins": 24.0,
+    "carbohydrates": 0,
+    "fats": 2.2,
+    "fiber": 0,
+    "category": "Viandes",
+    "vitamins": [
+      "B6",
+      "B12",
+      "B2",
+      "B3"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Fer",
+      "Potassium"
+    ]
+  },
+  {
+    "name": "Lentilles",
+    "calories": 116,
+    "proteins": 9,
+    "carbohydrates": 20,
+    "fats": 0.4,
+    "fiber": 8,
+    "category": "Légumineuses",
+    "vitamins": [
+      "B1",
+      "B6",
+      "B9"
+    ],
+    "minerals": [
+      "Fer",
+      "Magnesium"
+    ]
+  },
+  {
+    "name": "Raie cuit",
+    "calories": 190,
+    "proteins": 18.3,
+    "carbohydrates": 0,
+    "fats": 7.7,
+    "fiber": 0,
+    "category": "Poissons",
+    "vitamins": [
+      "B12",
+      "A",
+      "D",
+      "B6"
+    ],
+    "minerals": [
+      "Sélénium",
+      "Potassium",
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Sarrasin cuit",
+    "calories": 139,
+    "proteins": 5.8,
+    "carbohydrates": 17.3,
+    "fats": 1.7,
+    "fiber": 4.0,
+    "category": "Céréales",
+    "vitamins": [
+      "B1",
+      "B2",
+      "B6",
+      "B3"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Potassium",
+      "Magnesium"
+    ]
+  },
+  {
+    "name": "Orge cuit",
+    "calories": 118,
+    "proteins": 4.0,
+    "carbohydrates": 17.3,
+    "fats": 0.7,
+    "fiber": 2.1,
+    "category": "Céréales",
+    "vitamins": [
+      "B1",
+      "B2"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Potassium",
+      "Fer",
+      "Magnesium"
+    ]
+  },
+  {
+    "name": "Pintade grillé(e)",
+    "calories": 223,
+    "proteins": 24.8,
+    "carbohydrates": 0,
+    "fats": 5.7,
+    "fiber": 0,
+    "category": "Viandes",
+    "vitamins": [
+      "B12",
+      "B6",
+      "B3"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Zinc",
+      "Fer",
+      "Potassium"
+    ]
+  },
+  {
+    "name": "Haricot vert",
+    "calories": 20,
+    "proteins": 2.5,
+    "carbohydrates": 9.5,
+    "fats": 0.7,
+    "fiber": 4.3,
+    "category": "Légumes",
+    "vitamins": [
+      "E",
+      "B12",
+      "A",
+      "B3"
+    ],
+    "minerals": [
+      "Potassium",
+      "Magnesium",
+      "Manganèse",
+      "Sodium"
+    ]
+  },
+  {
+    "name": "Cabillaud cuit",
+    "calories": 151,
+    "proteins": 25.5,
+    "carbohydrates": 0,
+    "fats": 7.1,
+    "fiber": 0,
+    "category": "Poissons",
+    "vitamins": [
+      "D",
+      "B6",
+      "A"
+    ],
+    "minerals": [
+      "Sélénium",
+      "Magnesium",
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Graines de citrouille",
+    "calories": 612,
+    "proteins": 5.5,
+    "carbohydrates": 15.9,
+    "fats": 11.5,
+    "fiber": 10.5,
+    "category": "Noix et Graines",
+    "vitamins": [
+      "E",
+      "B6",
+      "B1"
+    ],
+    "minerals": [
+      "Magnesium",
+      "Potassium"
+    ]
+  },
+  {
+    "name": "Orange",
+    "calories": 99,
+    "proteins": 1.7,
+    "carbohydrates": 23.2,
+    "fats": 0.2,
+    "fiber": 3.9,
+    "category": "Fruits",
+    "vitamins": [
+      "K",
+      "B3",
+      "B7"
+    ],
+    "minerals": [
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Lait de coco",
+    "calories": 332,
+    "proteins": 17.0,
+    "carbohydrates": 14.1,
+    "fats": 22.4,
+    "fiber": 0,
+    "category": "Produits Laitiers",
+    "vitamins": [
+      "D",
+      "B2",
+      "A"
+    ],
+    "minerals": [
+      "Potassium",
+      "Calcium",
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Maïs",
+    "calories": 20,
+    "proteins": 3.1,
+    "carbohydrates": 3.2,
+    "fats": 0.4,
+    "fiber": 5.6,
+    "category": "Légumes",
+    "vitamins": [
+      "B2",
+      "B6",
+      "A"
+    ],
+    "minerals": [
+      "Cuivre",
+      "Potassium",
+      "Calcium"
+    ]
+  },
+  {
+    "name": "Carotte",
+    "calories": 39,
+    "proteins": 1.9,
+    "carbohydrates": 18.6,
+    "fats": 0.6,
+    "fiber": 2.5,
+    "category": "Légumes",
+    "vitamins": [
+      "B3",
+      "B12",
+      "B5"
+    ],
+    "minerals": [
+      "Molybdène",
+      "Fer",
+      "Chrome",
+      "Sodium"
+    ]
+  },
+  {
+    "name": "Épinards",
+    "calories": 19,
+    "proteins": 2.8,
+    "carbohydrates": 8.8,
+    "fats": 0.5,
+    "fiber": 4.9,
+    "category": "Légumes",
+    "vitamins": [
+      "B3",
+      "B7",
+      "B2",
+      "E"
+    ],
+    "minerals": [
+      "Iode",
+      "Calcium"
+    ]
+  },
+  {
+    "name": "Chou de Bruxelles",
+    "calories": 95,
+    "proteins": 3.9,
+    "carbohydrates": 5.4,
+    "fats": 0.5,
+    "fiber": 5.5,
+    "category": "Légumes",
+    "vitamins": [
+      "B7",
+      "B5"
+    ],
+    "minerals": [
+      "Calcium",
+      "Iode",
+      "Manganèse"
+    ]
+  },
+  {
+    "name": "Navet",
+    "calories": 87,
+    "proteins": 1.4,
+    "carbohydrates": 16.4,
+    "fats": 0.2,
+    "fiber": 2.5,
+    "category": "Légumes",
+    "vitamins": [
+      "B9",
+      "C",
+      "B3"
+    ],
+    "minerals": [
+      "Chrome",
+      "Fer"
+    ]
+  },
+  {
+    "name": "Bœuf grillé(e)",
+    "calories": 266,
+    "proteins": 28.7,
+    "carbohydrates": 0,
+    "fats": 11.4,
+    "fiber": 0,
+    "category": "Viandes",
+    "vitamins": [
+      "B1",
+      "B6",
+      "B2"
+    ],
+    "minerals": [
+      "Potassium",
+      "Fer",
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Fonio cuit",
+    "calories": 90,
+    "proteins": 4.3,
+    "carbohydrates": 27.5,
+    "fats": 1.7,
+    "fiber": 2.1,
+    "category": "Céréales",
+    "vitamins": [
+      "B2",
+      "B6",
+      "B1"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Magnesium"
+    ]
+  },
+  {
+    "name": "Triticale cuit",
+    "calories": 104,
+    "proteins": 2.6,
+    "carbohydrates": 21.2,
+    "fats": 0.6,
+    "fiber": 3.3,
+    "category": "Céréales",
+    "vitamins": [
+      "B6",
+      "B2"
+    ],
+    "minerals": [
+      "Potassium",
+      "Fer",
+      "Magnesium",
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Saumon cuit",
+    "calories": 230,
+    "proteins": 28.9,
+    "carbohydrates": 0,
+    "fats": 9.0,
+    "fiber": 0,
+    "category": "Poissons",
+    "vitamins": [
+      "B6",
+      "B12"
+    ],
+    "minerals": [
+      "Potassium",
+      "Sélénium",
+      "Magnesium"
+    ]
+  },
+  {
+    "name": "Pécan",
+    "calories": 359,
+    "proteins": 22.7,
+    "carbohydrates": 19.4,
+    "fats": 48.3,
+    "fiber": 2.8,
+    "category": "Noix et Graines",
+    "vitamins": [
+      "E"
+    ],
+    "minerals": [
+      "Zinc",
+      "Potassium",
+      "Phosphore",
+      "Magnesium"
+    ]
+  },
+  {
+    "name": "Lait de brebis",
+    "calories": 321,
+    "proteins": 23.1,
+    "carbohydrates": 12.7,
+    "fats": 11.2,
+    "fiber": 0,
+    "category": "Produits Laitiers",
+    "vitamins": [
+      "B12",
+      "B2"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Potassium"
+    ]
+  },
+  {
+    "name": "Carpe cuit",
+    "calories": 111,
+    "proteins": 29.8,
+    "carbohydrates": 0,
+    "fats": 9.0,
+    "fiber": 0,
+    "category": "Poissons",
+    "vitamins": [
+      "B6",
+      "B12",
+      "A",
+      "D"
+    ],
+    "minerals": [
+      "Sélénium",
+      "Magnesium",
+      "Phosphore",
+      "Potassium"
+    ]
+  },
+  {
+    "name": "Ciboulette",
+    "calories": 32,
+    "proteins": 3.7,
+    "carbohydrates": 6.3,
+    "fats": 0.5,
+    "fiber": 4.1,
+    "category": "Légumes",
+    "vitamins": [
+      "B3",
+      "D"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Chrome"
+    ]
+  },
+  {
+    "name": "Myrtille",
+    "calories": 86,
+    "proteins": 1.4,
+    "carbohydrates": 9.9,
+    "fats": 0.1,
+    "fiber": 3.6,
+    "category": "Fruits",
+    "vitamins": [
+      "B1",
+      "B3"
+    ],
+    "minerals": [
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Crème",
+    "calories": 290,
+    "proteins": 12.8,
+    "carbohydrates": 12.5,
+    "fats": 0.7,
+    "fiber": 0,
+    "category": "Produits Laitiers",
+    "vitamins": [
+      "B12",
+      "A",
+      "D"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Potassium",
+      "Calcium"
+    ]
+  },
+  {
+    "name": "Pois",
+    "calories": 32,
+    "proteins": 4.0,
+    "carbohydrates": 17.3,
+    "fats": 0.3,
+    "fiber": 5.9,
+    "category": "Légumes",
+    "vitamins": [
+      "B7",
+      "B3",
+      "B6",
+      "E"
+    ],
+    "minerals": [
+      "Zinc",
+      "Iode"
+    ]
+  },
+  {
+    "name": "Kangourou grillé(e)",
+    "calories": 297,
+    "proteins": 26.0,
+    "carbohydrates": 0,
+    "fats": 11.8,
+    "fiber": 0,
+    "category": "Viandes",
+    "vitamins": [
+      "B12",
+      "B3"
+    ],
+    "minerals": [
+      "Fer",
+      "Phosphore",
+      "Zinc",
+      "Potassium"
+    ]
+  },
+  {
+    "name": "Pêche",
+    "calories": 35,
+    "proteins": 1.5,
+    "carbohydrates": 21.9,
+    "fats": 0.4,
+    "fiber": 4.0,
+    "category": "Fruits",
+    "vitamins": [
+      "D",
+      "B1"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Manganèse"
+    ]
+  },
+  {
+    "name": "Avoine cuit",
+    "calories": 120,
+    "proteins": 4.1,
+    "carbohydrates": 21.6,
+    "fats": 1.1,
+    "fiber": 3.8,
+    "category": "Céréales",
+    "vitamins": [
+      "B6",
+      "B1",
+      "B3",
+      "B2"
+    ],
+    "minerals": [
+      "Potassium",
+      "Phosphore",
+      "Magnesium"
+    ]
+  },
+  {
+    "name": "Noix du Brésil",
+    "calories": 427,
+    "proteins": 17.0,
+    "carbohydrates": 13.9,
+    "fats": 27.7,
+    "fiber": 5.4,
+    "category": "Noix et Graines",
+    "vitamins": [
+      "E"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Magnesium",
+      "Potassium",
+      "Zinc"
+    ]
+  },
+  {
+    "name": "Lieu cuit",
+    "calories": 128,
+    "proteins": 21.5,
+    "carbohydrates": 0,
+    "fats": 9.3,
+    "fiber": 0,
+    "category": "Poissons",
+    "vitamins": [
+      "D",
+      "B12",
+      "B6",
+      "A"
+    ],
+    "minerals": [
+      "Potassium",
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Figue",
+    "calories": 83,
+    "proteins": 0.7,
+    "carbohydrates": 14.8,
+    "fats": 0.3,
+    "fiber": 2.2,
+    "category": "Fruits",
+    "vitamins": [
+      "A",
+      "B6"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Sélénium"
+    ]
+  },
+  {
+    "name": "Persil",
+    "calories": 66,
+    "proteins": 2.8,
+    "carbohydrates": 6.1,
+    "fats": 0.5,
+    "fiber": 5.3,
+    "category": "Légumes",
+    "vitamins": [
+      "A",
+      "B9",
+      "B5",
+      "B12",
+      "B6"
+    ],
+    "minerals": [
+      "Molybdène",
+      "Phosphore",
+      "Magnesium",
+      "Fer"
+    ]
+  },
+  {
+    "name": "Yaourt",
+    "calories": 284,
+    "proteins": 21.0,
+    "carbohydrates": 14.1,
+    "fats": 22.2,
+    "fiber": 0,
+    "category": "Produits Laitiers",
+    "vitamins": [
+      "B12",
+      "A"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Potassium"
+    ]
+  },
+  {
+    "name": "Goyave",
+    "calories": 92,
+    "proteins": 1.3,
+    "carbohydrates": 9.6,
+    "fats": 0.3,
+    "fiber": 2.3,
+    "category": "Fruits",
+    "vitamins": [
+      "B6",
+      "B2",
+      "B3"
+    ],
+    "minerals": [
+      "Sodium",
+      "Chrome"
+    ]
+  },
+  {
+    "name": "Nectarine",
+    "calories": 96,
+    "proteins": 1.3,
+    "carbohydrates": 9.0,
+    "fats": 0.3,
+    "fiber": 2.5,
+    "category": "Fruits",
+    "vitamins": [
+      "B1",
+      "B5"
+    ],
+    "minerals": [
+      "Fer",
+      "Magnesium",
+      "Sodium"
+    ]
+  },
+  {
+    "name": "Caille grillé(e)",
+    "calories": 170,
+    "proteins": 21.0,
+    "carbohydrates": 0,
+    "fats": 7.2,
+    "fiber": 0,
+    "category": "Viandes",
+    "vitamins": [
+      "B3",
+      "B2",
+      "B6",
+      "B12"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Zinc",
+      "Potassium",
+      "Fer"
+    ]
+  },
+  {
+    "name": "Sorgho cuit",
+    "calories": 106,
+    "proteins": 4.6,
+    "carbohydrates": 28.2,
+    "fats": 1.7,
+    "fiber": 3.0,
+    "category": "Céréales",
+    "vitamins": [
+      "B2",
+      "B6",
+      "B1",
+      "B3"
+    ],
+    "minerals": [
+      "Potassium",
+      "Fer"
+    ]
+  },
+  {
+    "name": "Brochet cuit",
+    "calories": 111,
+    "proteins": 26.6,
+    "carbohydrates": 0,
+    "fats": 4.3,
+    "fiber": 0,
+    "category": "Poissons",
+    "vitamins": [
+      "A",
+      "D"
+    ],
+    "minerals": [
+      "Potassium",
+      "Sélénium"
+    ]
+  },
+  {
+    "name": "Blé cuit",
+    "calories": 134,
+    "proteins": 4.9,
+    "carbohydrates": 21.9,
+    "fats": 1.6,
+    "fiber": 4.0,
+    "category": "Céréales",
+    "vitamins": [
+      "B6",
+      "B2",
+      "B1"
+    ],
+    "minerals": [
+      "Fer",
+      "Magnesium",
+      "Phosphore",
+      "Potassium"
+    ]
+  },
+  {
+    "name": "Porc grillé(e)",
+    "calories": 248,
+    "proteins": 21.9,
+    "carbohydrates": 0,
+    "fats": 2.0,
+    "fiber": 0,
+    "category": "Viandes",
+    "vitamins": [
+      "B6",
+      "B2",
+      "B3",
+      "B12"
+    ],
+    "minerals": [
+      "Zinc",
+      "Phosphore",
+      "Potassium"
+    ]
+  },
+  {
+    "name": "Noix de cajou",
+    "calories": 514,
+    "proteins": 22.3,
+    "carbohydrates": 11.0,
+    "fats": 43.0,
+    "fiber": 11.2,
+    "category": "Noix et Graines",
+    "vitamins": [
+      "B1"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Magnesium",
+      "Zinc"
+    ]
+  },
+  {
+    "name": "Lotte cuit",
+    "calories": 207,
+    "proteins": 28.4,
+    "carbohydrates": 0,
+    "fats": 2.6,
+    "fiber": 0,
+    "category": "Poissons",
+    "vitamins": [
+      "B12",
+      "A",
+      "D"
+    ],
+    "minerals": [
+      "Potassium",
+      "Magnesium",
+      "Sélénium"
+    ]
+  },
+  {
+    "name": "Sardine cuit",
+    "calories": 192,
+    "proteins": 22.7,
+    "carbohydrates": 0,
+    "fats": 10.0,
+    "fiber": 0,
+    "category": "Poissons",
+    "vitamins": [
+      "D",
+      "B6",
+      "A",
+      "B12"
+    ],
+    "minerals": [
+      "Potassium",
+      "Sélénium",
+      "Magnesium"
+    ]
+  },
+  {
+    "name": "Seigle cuit",
+    "calories": 109,
+    "proteins": 2.9,
+    "carbohydrates": 24.0,
+    "fats": 1.9,
+    "fiber": 1.7,
+    "category": "Céréales",
+    "vitamins": [
+      "B2",
+      "B3",
+      "B1",
+      "B6"
+    ],
+    "minerals": [
+      "Potassium",
+      "Phosphore",
+      "Fer"
+    ]
+  },
+  {
+    "name": "Cajou",
+    "calories": 608,
+    "proteins": 23.1,
+    "carbohydrates": 16.1,
+    "fats": 45.4,
+    "fiber": 4.6,
+    "category": "Noix et Graines",
+    "vitamins": [
+      "B1",
+      "B6"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Zinc",
+      "Magnesium"
+    ]
+  },
+  {
+    "name": "Tomate",
+    "calories": 82,
+    "proteins": 1.6,
+    "carbohydrates": 9.9,
+    "fats": 0.1,
+    "fiber": 2.7,
+    "category": "Légumes",
+    "vitamins": [
+      "B7",
+      "B9",
+      "B1",
+      "E",
+      "C"
+    ],
+    "minerals": [
+      "Molybdène",
+      "Phosphore",
+      "Fer",
+      "Magnesium"
+    ]
+  },
+  {
+    "name": "Noix",
+    "calories": 555,
+    "proteins": 18.3,
+    "carbohydrates": 13.4,
+    "fats": 18.0,
+    "fiber": 9.4,
+    "category": "Noix et Graines",
+    "vitamins": [
+      "E"
+    ],
+    "minerals": [
+      "Magnesium",
+      "Zinc",
+      "Phosphore",
+      "Potassium"
+    ]
+  },
+  {
+    "name": "Teff cuit",
+    "calories": 106,
+    "proteins": 3.9,
+    "carbohydrates": 24.2,
+    "fats": 1.3,
+    "fiber": 3.9,
+    "category": "Céréales",
+    "vitamins": [
+      "B2",
+      "B1",
+      "B3"
+    ],
+    "minerals": [
+      "Fer",
+      "Magnesium"
+    ]
+  },
+  {
+    "name": "Oignon",
+    "calories": 44,
+    "proteins": 2.4,
+    "carbohydrates": 14.1,
+    "fats": 0.6,
+    "fiber": 1.8,
+    "category": "Légumes",
+    "vitamins": [
+      "B3",
+      "K"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Molybdène"
+    ]
+  },
+  {
+    "name": "Fromage",
+    "calories": 178,
+    "proteins": 16.5,
+    "carbohydrates": 9.3,
+    "fats": 32.5,
+    "fiber": 0,
+    "category": "Produits Laitiers",
+    "vitamins": [
+      "B2",
+      "A",
+      "B12"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Potassium"
+    ]
+  },
+  {
+    "name": "Turbot cuit",
+    "calories": 223,
+    "proteins": 25.7,
+    "carbohydrates": 0,
+    "fats": 6.8,
+    "fiber": 0,
+    "category": "Poissons",
+    "vitamins": [
+      "A",
+      "B6",
+      "B12",
+      "D"
+    ],
+    "minerals": [
+      "Potassium",
+      "Sélénium",
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Betterave",
+    "calories": 81,
+    "proteins": 3.5,
+    "carbohydrates": 5.9,
+    "fats": 0.3,
+    "fiber": 1.6,
+    "category": "Légumes",
+    "vitamins": [
+      "B2",
+      "E",
+      "B12",
+      "D"
+    ],
+    "minerals": [
+      "Iode",
+      "Calcium"
+    ]
+  },
+  {
+    "name": "Radis",
+    "calories": 90,
+    "proteins": 2.0,
+    "carbohydrates": 5.3,
+    "fats": 0.6,
+    "fiber": 1.7,
+    "category": "Légumes",
+    "vitamins": [
+      "B1",
+      "B5",
+      "B7",
+      "A",
+      "B9"
+    ],
+    "minerals": [
+      "Zinc",
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Pignon",
+    "calories": 360,
+    "proteins": 21.5,
+    "carbohydrates": 13.0,
+    "fats": 45.8,
+    "fiber": 10.9,
+    "category": "Noix et Graines",
+    "vitamins": [
+      "B1",
+      "E"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Zinc",
+      "Potassium",
+      "Magnesium"
+    ]
+  },
+  {
+    "name": "Sanglier grillé(e)",
+    "calories": 284,
+    "proteins": 27.2,
+    "carbohydrates": 0,
+    "fats": 13.9,
+    "fiber": 0,
+    "category": "Viandes",
+    "vitamins": [
+      "B1",
+      "B2",
+      "B3",
+      "B12"
+    ],
+    "minerals": [
+      "Fer",
+      "Potassium",
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Basilic",
+    "calories": 42,
+    "proteins": 2.2,
+    "carbohydrates": 7.3,
+    "fats": 0.3,
+    "fiber": 3.1,
+    "category": "Légumes",
+    "vitamins": [
+      "B1",
+      "E",
+      "B12",
+      "B2",
+      "K"
+    ],
+    "minerals": [
+      "Sodium",
+      "Iode",
+      "Fer",
+      "Chrome"
+    ]
+  },
+  {
+    "name": "Marron",
+    "calories": 609,
+    "proteins": 23.7,
+    "carbohydrates": 19.9,
+    "fats": 57.1,
+    "fiber": 10.4,
+    "category": "Noix et Graines",
+    "vitamins": [
+      "B1",
+      "B6",
+      "E"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Zinc",
+      "Magnesium"
+    ]
+  },
+  {
+    "name": "Litchi",
+    "calories": 118,
+    "proteins": 1.0,
+    "carbohydrates": 23.5,
+    "fats": 0.1,
+    "fiber": 3.0,
+    "category": "Fruits",
+    "vitamins": [
+      "B9",
+      "K"
+    ],
+    "minerals": [
+      "Iode"
+    ]
+  },
+  {
+    "name": "Patate douce",
+    "calories": 80,
+    "proteins": 2.2,
+    "carbohydrates": 16.9,
+    "fats": 0.2,
+    "fiber": 5.0,
+    "category": "Légumes",
+    "vitamins": [
+      "B9",
+      "B12",
+      "A",
+      "B3",
+      "B6"
+    ],
+    "minerals": [
+      "Cuivre",
+      "Chrome"
+    ]
+  },
+  {
+    "name": "Lait de soja",
+    "calories": 299,
+    "proteins": 3.3,
+    "carbohydrates": 5.2,
+    "fats": 23.6,
+    "fiber": 0,
+    "category": "Produits Laitiers",
+    "vitamins": [
+      "B12",
+      "D"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Calcium"
+    ]
+  },
+  {
+    "name": "Pomme",
+    "calories": 95,
+    "proteins": 1.1,
+    "carbohydrates": 8.4,
+    "fats": 0.3,
+    "fiber": 2.4,
+    "category": "Fruits",
+    "vitamins": [
+      "B1",
+      "B6",
+      "C",
+      "B7"
+    ],
+    "minerals": [
+      "Potassium",
+      "Sodium"
+    ]
+  },
+  {
+    "name": "Kamut cuit",
+    "calories": 116,
+    "proteins": 4.1,
+    "carbohydrates": 15.7,
+    "fats": 1.4,
+    "fiber": 3.9,
+    "category": "Céréales",
+    "vitamins": [
+      "B6",
+      "B2",
+      "B1",
+      "B3"
+    ],
+    "minerals": [
+      "Potassium",
+      "Fer",
+      "Magnesium",
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Pois chiches",
+    "calories": 164,
+    "proteins": 9,
+    "carbohydrates": 27,
+    "fats": 2.6,
+    "fiber": 8,
+    "category": "Légumineuses",
+    "vitamins": [
+      "B6",
+      "B9"
+    ],
+    "minerals": [
+      "Fer",
+      "Magnesium"
+    ]
+  },
+  {
+    "name": "Artichaut",
+    "calories": 38,
+    "proteins": 3.4,
+    "carbohydrates": 19.9,
+    "fats": 0.5,
+    "fiber": 3.3,
+    "category": "Légumes",
+    "vitamins": [
+      "B9",
+      "B12",
+      "B5"
+    ],
+    "minerals": [
+      "Cuivre",
+      "Calcium",
+      "Phosphore",
+      "Sodium"
+    ]
+  },
+  {
+    "name": "Abricot",
+    "calories": 33,
+    "proteins": 1.3,
+    "carbohydrates": 8.5,
+    "fats": 0.4,
+    "fiber": 3.6,
+    "category": "Fruits",
+    "vitamins": [
+      "C",
+      "K"
+    ],
+    "minerals": [
+      "Fer"
+    ]
+  },
+  {
+    "name": "Épeautre cuit",
+    "calories": 130,
+    "proteins": 2.6,
+    "carbohydrates": 29.6,
+    "fats": 1.7,
+    "fiber": 2.9,
+    "category": "Céréales",
+    "vitamins": [
+      "B3",
+      "B6",
+      "B1",
+      "B2"
+    ],
+    "minerals": [
+      "Magnesium",
+      "Potassium",
+      "Fer",
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Graines de sésame",
+    "calories": 279,
+    "proteins": 23.5,
+    "carbohydrates": 5.2,
+    "fats": 24.5,
+    "fiber": 9.1,
+    "category": "Noix et Graines",
+    "vitamins": [
+      "B6"
+    ],
+    "minerals": [
+      "Zinc",
+      "Magnesium"
+    ]
+  },
+  {
+    "name": "Sauge",
+    "calories": 54,
+    "proteins": 3.9,
+    "carbohydrates": 13.7,
+    "fats": 0.5,
+    "fiber": 4.8,
+    "category": "Légumes",
+    "vitamins": [
+      "C",
+      "A",
+      "B3",
+      "B7"
+    ],
+    "minerals": [
+      "Fer",
+      "Sodium"
+    ]
+  },
+  {
+    "name": "Macadamia",
+    "calories": 163,
+    "proteins": 10.1,
+    "carbohydrates": 14.8,
+    "fats": 52.0,
+    "fiber": 10.6,
+    "category": "Noix et Graines",
+    "vitamins": [
+      "B6"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Potassium"
+    ]
+  },
+  {
+    "name": "Maquereau cuit",
+    "calories": 148,
+    "proteins": 19.7,
+    "carbohydrates": 0,
+    "fats": 10.7,
+    "fiber": 0,
+    "category": "Poissons",
+    "vitamins": [
+      "D",
+      "A",
+      "B6",
+      "B12"
+    ],
+    "minerals": [
+      "Potassium",
+      "Magnesium"
+    ]
+  },
+  {
+    "name": "Aubergine",
+    "calories": 41,
+    "proteins": 2.3,
+    "carbohydrates": 18.5,
+    "fats": 0.7,
+    "fiber": 4.4,
+    "category": "Légumes",
+    "vitamins": [
+      "B6",
+      "B7",
+      "A"
+    ],
+    "minerals": [
+      "Sélénium",
+      "Zinc",
+      "Fer"
+    ]
+  },
+  {
+    "name": "Graines de chia",
+    "calories": 161,
+    "proteins": 20.1,
+    "carbohydrates": 7.9,
+    "fats": 43.2,
+    "fiber": 3.2,
+    "category": "Noix et Graines",
+    "vitamins": [
+      "B1"
+    ],
+    "minerals": [
+      "Potassium",
+      "Magnesium",
+      "Zinc"
+    ]
+  },
+  {
+    "name": "Lait d'avoine",
+    "calories": 371,
+    "proteins": 11.8,
+    "carbohydrates": 11.2,
+    "fats": 15.6,
+    "fiber": 0,
+    "category": "Produits Laitiers",
+    "vitamins": [
+      "B2",
+      "A",
+      "B12",
+      "D"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Potassium",
+      "Calcium"
+    ]
+  },
+  {
+    "name": "Anchois cuit",
+    "calories": 227,
+    "proteins": 21.4,
+    "carbohydrates": 0,
+    "fats": 2.8,
+    "fiber": 0,
+    "category": "Poissons",
+    "vitamins": [
+      "B12",
+      "D",
+      "B6"
+    ],
+    "minerals": [
+      "Magnesium",
+      "Sélénium",
+      "Phosphore",
+      "Potassium"
+    ]
+  },
+  {
+    "name": "Breadfruit",
+    "calories": 96,
+    "proteins": 1.2,
+    "carbohydrates": 20.0,
+    "fats": 0.4,
+    "fiber": 2.0,
+    "category": "Fruits",
+    "vitamins": [
+      "B5",
+      "D"
+    ],
+    "minerals": [
+      "Magnesium",
+      "Sodium"
+    ]
+  },
+  {
+    "name": "Kéfir",
+    "calories": 55,
+    "proteins": 10.0,
+    "carbohydrates": 5.0,
+    "fats": 17.1,
+    "fiber": 0,
+    "category": "Produits Laitiers",
+    "vitamins": [
+      "A",
+      "B12",
+      "B2",
+      "D"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Calcium",
+      "Potassium"
+    ]
+  },
+  {
+    "name": "Papaye",
+    "calories": 47,
+    "proteins": 0.7,
+    "carbohydrates": 16.4,
+    "fats": 0.3,
+    "fiber": 2.1,
+    "category": "Fruits",
+    "vitamins": [
+      "B3",
+      "B1",
+      "K",
+      "B12"
+    ],
+    "minerals": [
+      "Molybdène"
+    ]
+  },
+  {
+    "name": "Jackfruit",
+    "calories": 30,
+    "proteins": 1.1,
+    "carbohydrates": 9.2,
+    "fats": 0.5,
+    "fiber": 2.9,
+    "category": "Fruits",
+    "vitamins": [
+      "B7",
+      "D",
+      "B3"
+    ],
+    "minerals": [
+      "Magnesium",
+      "Iode"
+    ]
+  },
+  {
+    "name": "Mangoustan",
+    "calories": 93,
+    "proteins": 0.8,
+    "carbohydrates": 8.3,
+    "fats": 0.2,
+    "fiber": 4.9,
+    "category": "Fruits",
+    "vitamins": [
+      "K",
+      "C",
+      "B2"
+    ],
+    "minerals": [
+      "Manganèse",
+      "Chrome"
+    ]
+  },
+  {
+    "name": "Tofu",
+    "calories": 76,
+    "proteins": 8,
+    "carbohydrates": 1.9,
+    "fats": 4.8,
+    "fiber": 0.3,
+    "category": "Protéines Végétales",
+    "vitamins": [
+      "B1",
+      "B6"
+    ],
+    "minerals": [
+      "Calcium",
+      "Fer"
+    ]
+  },
+  {
+    "name": "Autruche grillé(e)",
+    "calories": 254,
+    "proteins": 28.0,
+    "carbohydrates": 0,
+    "fats": 9.0,
+    "fiber": 0,
+    "category": "Viandes",
+    "vitamins": [
+      "B6",
+      "B3",
+      "B2"
+    ],
+    "minerals": [
+      "Potassium",
+      "Phosphore",
+      "Fer"
+    ]
+  },
+  {
+    "name": "Romarin",
+    "calories": 17,
+    "proteins": 2.0,
+    "carbohydrates": 5.2,
+    "fats": 0.2,
+    "fiber": 5.7,
+    "category": "Légumes",
+    "vitamins": [
+      "D",
+      "B5"
+    ],
+    "minerals": [
+      "Zinc",
+      "Phosphore",
+      "Potassium"
+    ]
+  },
+  {
+    "name": "Mandarine",
+    "calories": 113,
+    "proteins": 1.4,
+    "carbohydrates": 12.7,
+    "fats": 0.1,
+    "fiber": 1.9,
+    "category": "Fruits",
+    "vitamins": [
+      "B2"
+    ],
+    "minerals": [
+      "Magnesium",
+      "Zinc",
+      "Potassium"
+    ]
+  },
+  {
+    "name": "Chèvre grillé(e)",
+    "calories": 161,
+    "proteins": 28.9,
+    "carbohydrates": 0,
+    "fats": 12.0,
+    "fiber": 0,
+    "category": "Viandes",
+    "vitamins": [
+      "B2",
+      "B3",
+      "B1"
+    ],
+    "minerals": [
+      "Fer",
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Dinde grillé(e)",
+    "calories": 259,
+    "proteins": 32.9,
+    "carbohydrates": 0,
+    "fats": 11.3,
+    "fiber": 0,
+    "category": "Viandes",
+    "vitamins": [
+      "B6",
+      "B3",
+      "B1"
+    ],
+    "minerals": [
+      "Fer",
+      "Phosphore",
+      "Zinc",
+      "Potassium"
+    ]
+  },
+  {
+    "name": "Chevreuil grillé(e)",
+    "calories": 150,
+    "proteins": 27.4,
+    "carbohydrates": 0,
+    "fats": 10.9,
+    "fiber": 0,
+    "category": "Viandes",
+    "vitamins": [
+      "B6",
+      "B12",
+      "B2",
+      "B3"
+    ],
+    "minerals": [
+      "Fer",
+      "Zinc",
+      "Potassium",
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Lait d'amande",
+    "calories": 86,
+    "proteins": 13.0,
+    "carbohydrates": 13.6,
+    "fats": 34.5,
+    "fiber": 0,
+    "category": "Produits Laitiers",
+    "vitamins": [
+      "B12",
+      "B2",
+      "A",
+      "D"
+    ],
+    "minerals": [
+      "Potassium",
+      "Calcium",
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Thon cuit",
+    "calories": 214,
+    "proteins": 21.7,
+    "carbohydrates": 0,
+    "fats": 1.7,
+    "fiber": 0,
+    "category": "Poissons",
+    "vitamins": [
+      "B12",
+      "D",
+      "A"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Potassium",
+      "Sélénium",
+      "Magnesium"
+    ]
+  },
+  {
+    "name": "Prune",
+    "calories": 97,
+    "proteins": 0.9,
+    "carbohydrates": 18.2,
+    "fats": 0.5,
+    "fiber": 3.4,
+    "category": "Fruits",
+    "vitamins": [
+      "K",
+      "B6",
+      "E",
+      "B9"
+    ],
+    "minerals": [
+      "Molybdène",
+      "Zinc"
+    ]
+  },
+  {
+    "name": "Ananas",
+    "calories": 40,
+    "proteins": 0.7,
+    "carbohydrates": 11.5,
+    "fats": 0.4,
+    "fiber": 2.1,
+    "category": "Fruits",
+    "vitamins": [
+      "B3"
+    ],
+    "minerals": [
+      "Fer",
+      "Cuivre",
+      "Zinc"
+    ]
+  },
+  {
+    "name": "Ramboutan",
+    "calories": 68,
+    "proteins": 1.5,
+    "carbohydrates": 24.2,
+    "fats": 0.5,
+    "fiber": 1.9,
+    "category": "Fruits",
+    "vitamins": [
+      "B7",
+      "C"
+    ],
+    "minerals": [
+      "Manganèse",
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Amarante cuit",
+    "calories": 144,
+    "proteins": 4.7,
+    "carbohydrates": 21.2,
+    "fats": 0.7,
+    "fiber": 2.9,
+    "category": "Céréales",
+    "vitamins": [
+      "B6",
+      "B1",
+      "B2",
+      "B3"
+    ],
+    "minerals": [
+      "Magnesium",
+      "Phosphore",
+      "Potassium"
+    ]
+  },
+  {
+    "name": "Canard grillé(e)",
+    "calories": 264,
+    "proteins": 21.7,
+    "carbohydrates": 0,
+    "fats": 11.6,
+    "fiber": 0,
+    "category": "Viandes",
+    "vitamins": [
+      "B1",
+      "B2"
+    ],
+    "minerals": [
+      "Zinc",
+      "Fer",
+      "Potassium"
+    ]
+  },
+  {
+    "name": "Mouton grillé(e)",
+    "calories": 127,
+    "proteins": 34.3,
+    "carbohydrates": 0,
+    "fats": 14.3,
+    "fiber": 0,
+    "category": "Viandes",
+    "vitamins": [
+      "B3",
+      "B6"
+    ],
+    "minerals": [
+      "Fer",
+      "Zinc"
+    ]
+  },
+  {
+    "name": "Baudroie cuit",
+    "calories": 154,
+    "proteins": 21.6,
+    "carbohydrates": 0,
+    "fats": 5.4,
+    "fiber": 0,
+    "category": "Poissons",
+    "vitamins": [
+      "D",
+      "B6",
+      "B12",
+      "A"
+    ],
+    "minerals": [
+      "Sélénium",
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Chou",
+    "calories": 71,
+    "proteins": 3.2,
+    "carbohydrates": 14.9,
+    "fats": 0.1,
+    "fiber": 2.9,
+    "category": "Légumes",
+    "vitamins": [
+      "K",
+      "B5",
+      "B1"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Magnesium",
+      "Potassium",
+      "Cuivre"
+    ]
+  },
+  {
+    "name": "Haddock cuit",
+    "calories": 120,
+    "proteins": 22.6,
+    "carbohydrates": 0,
+    "fats": 2.7,
+    "fiber": 0,
+    "category": "Poissons",
+    "vitamins": [
+      "A",
+      "B6",
+      "D"
+    ],
+    "minerals": [
+      "Magnesium",
+      "Potassium"
+    ]
+  },
+  {
+    "name": "Pomme de terre",
+    "calories": 30,
+    "proteins": 2.4,
+    "carbohydrates": 10.1,
+    "fats": 0.7,
+    "fiber": 4.5,
+    "category": "Légumes",
+    "vitamins": [
+      "E",
+      "D",
+      "B5",
+      "B3",
+      "B7"
+    ],
+    "minerals": [
+      "Molybdène",
+      "Fer",
+      "Chrome",
+      "Zinc"
+    ]
+  },
+  {
+    "name": "Ail",
+    "calories": 39,
+    "proteins": 1.1,
+    "carbohydrates": 14.7,
+    "fats": 0.7,
+    "fiber": 2.7,
+    "category": "Légumes",
+    "vitamins": [
+      "A",
+      "E",
+      "K",
+      "B7"
+    ],
+    "minerals": [
+      "Molybdène",
+      "Fer"
+    ]
+  },
+  {
+    "name": "Pistache",
+    "calories": 233,
+    "proteins": 13.0,
+    "carbohydrates": 9.3,
+    "fats": 27.4,
+    "fiber": 5.4,
+    "category": "Noix et Graines",
+    "vitamins": [
+      "B1",
+      "B6",
+      "E"
+    ],
+    "minerals": [
+      "Potassium",
+      "Zinc",
+      "Magnesium"
+    ]
+  },
+  {
+    "name": "Agneau grillé(e)",
+    "calories": 291,
+    "proteins": 29.3,
+    "carbohydrates": 0,
+    "fats": 4.8,
+    "fiber": 0,
+    "category": "Viandes",
+    "vitamins": [
+      "B1",
+      "B12",
+      "B3"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Zinc",
+      "Potassium",
+      "Fer"
+    ]
+  },
+  {
+    "name": "Châtaigne",
+    "calories": 181,
+    "proteins": 20.7,
+    "carbohydrates": 10.6,
+    "fats": 15.4,
+    "fiber": 9.6,
+    "category": "Noix et Graines",
+    "vitamins": [
+      "B6",
+      "E"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Magnesium",
+      "Potassium"
+    ]
+  },
+  {
+    "name": "Kiwi",
+    "calories": 68,
+    "proteins": 1.4,
+    "carbohydrates": 15.8,
+    "fats": 0.4,
+    "fiber": 1.7,
+    "category": "Fruits",
+    "vitamins": [
+      "C"
+    ],
+    "minerals": [
+      "Chrome"
+    ]
+  },
+  {
+    "name": "Citron",
+    "calories": 103,
+    "proteins": 1.9,
+    "carbohydrates": 15.2,
+    "fats": 0.1,
+    "fiber": 3.7,
+    "category": "Fruits",
+    "vitamins": [
+      "B7",
+      "D"
+    ],
+    "minerals": [
+      "Manganèse"
+    ]
+  },
+  {
+    "name": "Graines de tournesol",
+    "calories": 628,
+    "proteins": 21.5,
+    "carbohydrates": 6.8,
+    "fats": 59.1,
+    "fiber": 8.6,
+    "category": "Noix et Graines",
+    "vitamins": [
+      "E",
+      "B1"
+    ],
+    "minerals": [
+      "Potassium",
+      "Zinc",
+      "Magnesium"
+    ]
+  },
+  {
+    "name": "Morue cuit",
+    "calories": 106,
+    "proteins": 18.2,
+    "carbohydrates": 0,
+    "fats": 8.6,
+    "fiber": 0,
+    "category": "Poissons",
+    "vitamins": [
+      "B12",
+      "B6"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Sélénium",
+      "Potassium",
+      "Magnesium"
+    ]
+  },
+  {
+    "name": "Rutabaga",
+    "calories": 81,
+    "proteins": 2.3,
+    "carbohydrates": 16.3,
+    "fats": 0.4,
+    "fiber": 3.7,
+    "category": "Légumes",
+    "vitamins": [
+      "A",
+      "B2",
+      "B1"
+    ],
+    "minerals": [
+      "Magnesium",
+      "Phosphore",
+      "Sodium",
+      "Sélénium"
+    ]
+  },
+  {
+    "name": "Saint-Pierre cuit",
+    "calories": 115,
+    "proteins": 29.1,
+    "carbohydrates": 0,
+    "fats": 3.1,
+    "fiber": 0,
+    "category": "Poissons",
+    "vitamins": [
+      "D",
+      "A",
+      "B12",
+      "B6"
+    ],
+    "minerals": [
+      "Potassium",
+      "Phosphore",
+      "Magnesium",
+      "Sélénium"
+    ]
+  },
+  {
+    "name": "Céleri",
+    "calories": 94,
+    "proteins": 1.1,
+    "carbohydrates": 15.7,
+    "fats": 0.2,
+    "fiber": 3.3,
+    "category": "Légumes",
+    "vitamins": [
+      "B2",
+      "B9",
+      "B7",
+      "B5",
+      "D"
+    ],
+    "minerals": [
+      "Zinc",
+      "Manganèse"
+    ]
+  },
+  {
+    "name": "Œuf",
+    "calories": 155,
+    "proteins": 13,
+    "carbohydrates": 1.1,
+    "fats": 11,
+    "fiber": 0,
+    "category": "Œufs",
+    "vitamins": [
+      "A",
+      "D",
+      "B12"
+    ],
+    "minerals": [
+      "Fer",
+      "Sélénium"
+    ]
+  },
+  {
+    "name": "Asperge",
+    "calories": 38,
+    "proteins": 3.4,
+    "carbohydrates": 13.0,
+    "fats": 0.2,
+    "fiber": 3.9,
+    "category": "Légumes",
+    "vitamins": [
+      "B3",
+      "E",
+      "C"
+    ],
+    "minerals": [
+      "Sélénium",
+      "Cuivre",
+      "Magnesium",
+      "Chrome"
+    ]
+  },
+  {
+    "name": "Fraise",
+    "calories": 52,
+    "proteins": 1.9,
+    "carbohydrates": 10.3,
+    "fats": 0.5,
+    "fiber": 1.7,
+    "category": "Fruits",
+    "vitamins": [
+      "B2",
+      "E",
+      "B6",
+      "B5"
+    ],
+    "minerals": [
+      "Molybdène",
+      "Chrome",
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Aiglefin cuit",
+    "calories": 112,
+    "proteins": 18.2,
+    "carbohydrates": 0,
+    "fats": 8.6,
+    "fiber": 0,
+    "category": "Poissons",
+    "vitamins": [
+      "A",
+      "B6",
+      "D"
+    ],
+    "minerals": [
+      "Magnesium",
+      "Sélénium",
+      "Phosphore",
+      "Potassium"
+    ]
+  },
+  {
+    "name": "Millet cuit",
+    "calories": 138,
+    "proteins": 2.6,
+    "carbohydrates": 20.7,
+    "fats": 2.0,
+    "fiber": 2.0,
+    "category": "Céréales",
+    "vitamins": [
+      "B1",
+      "B3"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Fer"
+    ]
+  },
+  {
+    "name": "Longane",
+    "calories": 54,
+    "proteins": 1.6,
+    "carbohydrates": 22.3,
+    "fats": 0.2,
+    "fiber": 4.7,
+    "category": "Fruits",
+    "vitamins": [
+      "B9",
+      "A"
+    ],
+    "minerals": [
+      "Fer"
+    ]
+  },
+  {
+    "name": "Poireau",
+    "calories": 77,
+    "proteins": 1.4,
+    "carbohydrates": 9.2,
+    "fats": 0.4,
+    "fiber": 5.4,
+    "category": "Légumes",
+    "vitamins": [
+      "E",
+      "B6",
+      "B7"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Manganèse",
+      "Zinc"
+    ]
+  },
+  {
+    "name": "Origan",
+    "calories": 19,
+    "proteins": 1.0,
+    "carbohydrates": 12.3,
+    "fats": 0.2,
+    "fiber": 1.7,
+    "category": "Légumes",
+    "vitamins": [
+      "B3",
+      "D",
+      "K",
+      "B7"
+    ],
+    "minerals": [
+      "Cuivre",
+      "Molybdène"
+    ]
+  },
+  {
+    "name": "Beurre",
+    "calories": 207,
+    "proteins": 15.5,
+    "carbohydrates": 14.7,
+    "fats": 4.5,
+    "fiber": 0,
+    "category": "Produits Laitiers",
+    "vitamins": [
+      "B12",
+      "D"
+    ],
+    "minerals": [
+      "Calcium",
+      "Potassium",
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Aneth",
+    "calories": 81,
+    "proteins": 1.4,
+    "carbohydrates": 9.9,
+    "fats": 0.8,
+    "fiber": 3.3,
+    "category": "Légumes",
+    "vitamins": [
+      "B3",
+      "B6"
+    ],
+    "minerals": [
+      "Chrome",
+      "Sélénium"
+    ]
+  },
+  {
+    "name": "Coriandre",
+    "calories": 35,
+    "proteins": 3.9,
+    "carbohydrates": 15.0,
+    "fats": 0.5,
+    "fiber": 2.8,
+    "category": "Légumes",
+    "vitamins": [
+      "C",
+      "D"
+    ],
+    "minerals": [
+      "Manganèse",
+      "Sodium"
+    ]
+  },
+  {
+    "name": "Faisan grillé(e)",
+    "calories": 267,
+    "proteins": 31.8,
+    "carbohydrates": 0,
+    "fats": 2.1,
+    "fiber": 0,
+    "category": "Viandes",
+    "vitamins": [
+      "B1",
+      "B6"
+    ],
+    "minerals": [
+      "Zinc",
+      "Potassium",
+      "Fer",
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Graines de pavot",
+    "calories": 250,
+    "proteins": 17.6,
+    "carbohydrates": 15.1,
+    "fats": 20.7,
+    "fiber": 10.6,
+    "category": "Noix et Graines",
+    "vitamins": [
+      "B6"
+    ],
+    "minerals": [
+      "Potassium",
+      "Magnesium",
+      "Zinc",
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Lait de noisette",
+    "calories": 158,
+    "proteins": 4.0,
+    "carbohydrates": 8.7,
+    "fats": 13.9,
+    "fiber": 0,
+    "category": "Produits Laitiers",
+    "vitamins": [
+      "D",
+      "A",
+      "B12",
+      "B2"
+    ],
+    "minerals": [
+      "Calcium",
+      "Potassium",
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Bar cuit",
+    "calories": 146,
+    "proteins": 22.8,
+    "carbohydrates": 0,
+    "fats": 1.6,
+    "fiber": 0,
+    "category": "Poissons",
+    "vitamins": [
+      "D",
+      "B12",
+      "B6"
+    ],
+    "minerals": [
+      "Potassium",
+      "Sélénium",
+      "Magnesium"
+    ]
+  },
+  {
+    "name": "Chou-fleur",
+    "calories": 16,
+    "proteins": 2.9,
+    "carbohydrates": 5.3,
+    "fats": 0.4,
+    "fiber": 1.7,
+    "category": "Légumes",
+    "vitamins": [
+      "C",
+      "B7"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Molybdène",
+      "Potassium",
+      "Magnesium"
+    ]
+  },
+  {
+    "name": "Perche cuit",
+    "calories": 139,
+    "proteins": 19.2,
+    "carbohydrates": 0,
+    "fats": 6.8,
+    "fiber": 0,
+    "category": "Poissons",
+    "vitamins": [
+      "D",
+      "A",
+      "B6",
+      "B12"
+    ],
+    "minerals": [
+      "Potassium",
+      "Sélénium",
+      "Magnesium",
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Pamplemousse",
+    "calories": 35,
+    "proteins": 1.5,
+    "carbohydrates": 9.2,
+    "fats": 0.2,
+    "fiber": 3.1,
+    "category": "Fruits",
+    "vitamins": [
+      "B5",
+      "A"
+    ],
+    "minerals": [
+      "Molybdène",
+      "Potassium",
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Truite cuit",
+    "calories": 202,
+    "proteins": 20.8,
+    "carbohydrates": 0,
+    "fats": 10.3,
+    "fiber": 0,
+    "category": "Poissons",
+    "vitamins": [
+      "A",
+      "B6",
+      "D",
+      "B12"
+    ],
+    "minerals": [
+      "Magnesium",
+      "Sélénium"
+    ]
+  },
+  {
+    "name": "Hareng cuit",
+    "calories": 196,
+    "proteins": 19.6,
+    "carbohydrates": 0,
+    "fats": 11.1,
+    "fiber": 0,
+    "category": "Poissons",
+    "vitamins": [
+      "A",
+      "B6",
+      "B12",
+      "D"
+    ],
+    "minerals": [
+      "Potassium",
+      "Magnesium",
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Raisin",
+    "calories": 69,
+    "proteins": 1.1,
+    "carbohydrates": 12.1,
+    "fats": 0.3,
+    "fiber": 2.1,
+    "category": "Fruits",
+    "vitamins": [
+      "B2"
+    ],
+    "minerals": [
+      "Cuivre"
+    ]
+  },
+  {
+    "name": "Noisette",
+    "calories": 388,
+    "proteins": 14.8,
+    "carbohydrates": 11.0,
+    "fats": 50.0,
+    "fiber": 7.0,
+    "category": "Noix et Graines",
+    "vitamins": [
+      "B6",
+      "E"
+    ],
+    "minerals": [
+      "Potassium",
+      "Zinc"
+    ]
+  },
+  {
+    "name": "Riz cuit",
+    "calories": 91,
+    "proteins": 5.3,
+    "carbohydrates": 29.0,
+    "fats": 0.9,
+    "fiber": 2.1,
+    "category": "Céréales",
+    "vitamins": [
+      "B3",
+      "B6",
+      "B1"
+    ],
+    "minerals": [
+      "Magnesium",
+      "Fer",
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Lait",
+    "calories": 311,
+    "proteins": 22.4,
+    "carbohydrates": 1.8,
+    "fats": 31.9,
+    "fiber": 0,
+    "category": "Produits Laitiers",
+    "vitamins": [
+      "D",
+      "A",
+      "B2"
+    ],
+    "minerals": [
+      "Calcium",
+      "Potassium"
+    ]
+  },
+  {
+    "name": "Haricots noirs",
+    "calories": 132,
+    "proteins": 9,
+    "carbohydrates": 24,
+    "fats": 0.5,
+    "fiber": 8,
+    "category": "Légumineuses",
+    "vitamins": [
+      "B1",
+      "B6"
+    ],
+    "minerals": [
+      "Fer",
+      "Magnesium"
+    ]
+  },
+  {
+    "name": "Lime",
+    "calories": 100,
+    "proteins": 1.1,
+    "carbohydrates": 15.8,
+    "fats": 0.4,
+    "fiber": 3.3,
+    "category": "Fruits",
+    "vitamins": [
+      "B6",
+      "B12",
+      "C"
+    ],
+    "minerals": [
+      "Magnesium",
+      "Zinc",
+      "Manganèse"
+    ]
+  },
+  {
+    "name": "Durian",
+    "calories": 33,
+    "proteins": 1.0,
+    "carbohydrates": 12.8,
+    "fats": 0.1,
+    "fiber": 4.2,
+    "category": "Fruits",
+    "vitamins": [
+      "A",
+      "B1",
+      "C",
+      "D"
+    ],
+    "minerals": [
+      "Magnesium"
+    ]
+  },
+  {
+    "name": "Anguille cuit",
+    "calories": 236,
+    "proteins": 25.6,
+    "carbohydrates": 0,
+    "fats": 11.7,
+    "fiber": 0,
+    "category": "Poissons",
+    "vitamins": [
+      "B12",
+      "B6",
+      "A"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Sélénium"
+    ]
+  },
+  {
+    "name": "Veau grillé(e)",
+    "calories": 274,
+    "proteins": 28.7,
+    "carbohydrates": 0,
+    "fats": 3.2,
+    "fiber": 0,
+    "category": "Viandes",
+    "vitamins": [
+      "B12",
+      "B6",
+      "B2"
+    ],
+    "minerals": [
+      "Potassium",
+      "Zinc"
+    ]
+  },
+  {
+    "name": "Sandre cuit",
+    "calories": 197,
+    "proteins": 23.1,
+    "carbohydrates": 0,
+    "fats": 2.2,
+    "fiber": 0,
+    "category": "Poissons",
+    "vitamins": [
+      "B12",
+      "B6"
+    ],
+    "minerals": [
+      "Magnesium",
+      "Potassium"
+    ]
+  },
+  {
+    "name": "Mangue",
+    "calories": 70,
+    "proteins": 1.5,
+    "carbohydrates": 12.3,
+    "fats": 0.3,
+    "fiber": 1.6,
+    "category": "Fruits",
+    "vitamins": [
+      "B9",
+      "B7",
+      "B1",
+      "D"
+    ],
+    "minerals": [
+      "Sodium"
+    ]
+  },
+  {
+    "name": "Émeu grillé(e)",
+    "calories": 146,
+    "proteins": 27.4,
+    "carbohydrates": 0,
+    "fats": 9.1,
+    "fiber": 0,
+    "category": "Viandes",
+    "vitamins": [
+      "B1",
+      "B12",
+      "B2"
+    ],
+    "minerals": [
+      "Potassium",
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Graines de lin",
+    "calories": 173,
+    "proteins": 6.3,
+    "carbohydrates": 8.8,
+    "fats": 44.4,
+    "fiber": 11.9,
+    "category": "Noix et Graines",
+    "vitamins": [
+      "E",
+      "B6",
+      "B1"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Zinc"
+    ]
+  },
+  {
+    "name": "Sapodilla",
+    "calories": 49,
+    "proteins": 1.6,
+    "carbohydrates": 14.6,
+    "fats": 0.3,
+    "fiber": 2.0,
+    "category": "Fruits",
+    "vitamins": [
+      "B3"
+    ],
+    "minerals": [
+      "Sélénium",
+      "Sodium"
+    ]
+  },
+  {
+    "name": "Crème fraîche",
+    "calories": 165,
+    "proteins": 5.3,
+    "carbohydrates": 9.6,
+    "fats": 8.7,
+    "fiber": 0,
+    "category": "Produits Laitiers",
+    "vitamins": [
+      "B12",
+      "B2",
+      "D"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Potassium",
+      "Calcium"
+    ]
+  },
+  {
+    "name": "Concombre",
+    "calories": 22,
+    "proteins": 3.4,
+    "carbohydrates": 18.2,
+    "fats": 0.6,
+    "fiber": 1.7,
+    "category": "Légumes",
+    "vitamins": [
+      "B12",
+      "B9"
+    ],
+    "minerals": [
+      "Manganèse",
+      "Potassium",
+      "Iode"
+    ]
+  },
+  {
+    "name": "Banane",
+    "calories": 76,
+    "proteins": 1.5,
+    "carbohydrates": 22.4,
+    "fats": 0.2,
+    "fiber": 1.9,
+    "category": "Fruits",
+    "vitamins": [
+      "B9",
+      "B5"
+    ],
+    "minerals": [
+      "Manganèse",
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Quinoa cuit",
+    "calories": 87,
+    "proteins": 3.2,
+    "carbohydrates": 16.0,
+    "fats": 1.1,
+    "fiber": 1.8,
+    "category": "Céréales",
+    "vitamins": [
+      "B6",
+      "B1"
+    ],
+    "minerals": [
+      "Potassium",
+      "Fer",
+      "Phosphore",
+      "Magnesium"
+    ]
+  },
+  {
+    "name": "Poulet grillé(e)",
+    "calories": 211,
+    "proteins": 22.3,
+    "carbohydrates": 0,
+    "fats": 11.5,
+    "fiber": 0,
+    "category": "Viandes",
+    "vitamins": [
+      "B1",
+      "B12",
+      "B2",
+      "B6"
+    ],
+    "minerals": [
+      "Potassium",
+      "Zinc",
+      "Fer"
+    ]
+  },
+  {
+    "name": "Poire",
+    "calories": 62,
+    "proteins": 1.4,
+    "carbohydrates": 24.1,
+    "fats": 0.2,
+    "fiber": 4.7,
+    "category": "Fruits",
+    "vitamins": [
+      "B3",
+      "B9",
+      "C",
+      "A"
+    ],
+    "minerals": [
+      "Molybdène"
+    ]
+  },
+  {
+    "name": "Dorade cuit",
+    "calories": 123,
+    "proteins": 29.7,
+    "carbohydrates": 0,
+    "fats": 2.7,
+    "fiber": 0,
+    "category": "Poissons",
+    "vitamins": [
+      "B12",
+      "D"
+    ],
+    "minerals": [
+      "Magnesium",
+      "Phosphore",
+      "Sélénium"
+    ]
+  },
+  {
+    "name": "Fenouil",
+    "calories": 69,
+    "proteins": 3.6,
+    "carbohydrates": 12.9,
+    "fats": 0.7,
+    "fiber": 6.0,
+    "category": "Légumes",
+    "vitamins": [
+      "B3",
+      "D",
+      "K",
+      "B5"
+    ],
+    "minerals": [
+      "Sélénium",
+      "Zinc",
+      "Iode",
+      "Potassium"
+    ]
+  },
+  {
+    "name": "Amande",
+    "calories": 388,
+    "proteins": 15.3,
+    "carbohydrates": 12.7,
+    "fats": 54.7,
+    "fiber": 9.1,
+    "category": "Noix et Graines",
+    "vitamins": [
+      "E"
+    ],
+    "minerals": [
+      "Potassium",
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Courgette",
+    "calories": 83,
+    "proteins": 4.0,
+    "carbohydrates": 16.0,
+    "fats": 0.6,
+    "fiber": 1.8,
+    "category": "Légumes",
+    "vitamins": [
+      "B2",
+      "B3",
+      "B1",
+      "D",
+      "E"
+    ],
+    "minerals": [
+      "Chrome",
+      "Calcium",
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Brocoli",
+    "calories": 81,
+    "proteins": 1.9,
+    "carbohydrates": 4.4,
+    "fats": 0.4,
+    "fiber": 5.7,
+    "category": "Légumes",
+    "vitamins": [
+      "B3",
+      "B12",
+      "D",
+      "B7"
+    ],
+    "minerals": [
+      "Zinc",
+      "Sodium",
+      "Manganèse"
+    ]
+  },
+  {
+    "name": "Poivron",
+    "calories": 41,
+    "proteins": 3.5,
+    "carbohydrates": 13.1,
+    "fats": 0.1,
+    "fiber": 2.4,
+    "category": "Légumes",
+    "vitamins": [
+      "B12",
+      "B9",
+      "K"
+    ],
+    "minerals": [
+      "Zinc",
+      "Cuivre",
+      "Sodium",
+      "Iode"
+    ]
+  },
+  {
+    "name": "Échalote",
+    "calories": 92,
+    "proteins": 2.6,
+    "carbohydrates": 7.2,
+    "fats": 0.8,
+    "fiber": 2.3,
+    "category": "Légumes",
+    "vitamins": [
+      "B2",
+      "B7",
+      "B6"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Manganèse"
+    ]
+  },
+  {
+    "name": "Cochon d'Inde grillé(e)",
+    "calories": 158,
+    "proteins": 33.6,
+    "carbohydrates": 0,
+    "fats": 5.1,
+    "fiber": 0,
+    "category": "Viandes",
+    "vitamins": [
+      "B1",
+      "B12"
+    ],
+    "minerals": [
+      "Zinc",
+      "Fer",
+      "Potassium"
+    ]
+  },
+  {
+    "name": "Oie grillé(e)",
+    "calories": 144,
+    "proteins": 22.7,
+    "carbohydrates": 0,
+    "fats": 6.8,
+    "fiber": 0,
+    "category": "Viandes",
+    "vitamins": [
+      "B1",
+      "B6"
+    ],
+    "minerals": [
+      "Fer",
+      "Zinc"
+    ]
+  },
+  {
+    "name": "Congre cuit",
+    "calories": 149,
+    "proteins": 25.7,
+    "carbohydrates": 0,
+    "fats": 12.0,
+    "fiber": 0,
+    "category": "Poissons",
+    "vitamins": [
+      "B12",
+      "A",
+      "D"
+    ],
+    "minerals": [
+      "Magnesium",
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Lait de riz",
+    "calories": 281,
+    "proteins": 16.3,
+    "carbohydrates": 0.9,
+    "fats": 15.7,
+    "fiber": 0,
+    "category": "Produits Laitiers",
+    "vitamins": [
+      "D",
+      "B12",
+      "B2",
+      "A"
+    ],
+    "minerals": [
+      "Phosphore",
+      "Calcium"
+    ]
+  },
+  {
+    "name": "Graines de chanvre",
+    "calories": 626,
+    "proteins": 15.4,
+    "carbohydrates": 5.8,
+    "fats": 46.6,
+    "fiber": 4.6,
+    "category": "Noix et Graines",
+    "vitamins": [
+      "B1",
+      "B6",
+      "E"
+    ],
+    "minerals": [
+      "Potassium",
+      "Magnesium"
+    ]
+  },
+  {
+    "name": "Merlu cuit",
+    "calories": 245,
+    "proteins": 26.6,
+    "carbohydrates": 0,
+    "fats": 3.0,
+    "fiber": 0,
+    "category": "Poissons",
+    "vitamins": [
+      "A",
+      "D",
+      "B6",
+      "B12"
+    ],
+    "minerals": [
+      "Magnesium",
+      "Phosphore",
+      "Potassium",
+      "Sélénium"
+    ]
+  },
+  {
+    "name": "Menthe",
+    "calories": 28,
+    "proteins": 3.6,
+    "carbohydrates": 19.9,
+    "fats": 0.4,
+    "fiber": 3.4,
+    "category": "Légumes",
+    "vitamins": [
+      "D",
+      "C",
+      "B1",
+      "B2",
+      "B3"
+    ],
+    "minerals": [
+      "Fer",
+      "Zinc"
+    ]
+  },
+  {
+    "name": "Estragon",
+    "calories": 96,
+    "proteins": 3.5,
+    "carbohydrates": 13.5,
+    "fats": 0.5,
+    "fiber": 2.5,
+    "category": "Légumes",
+    "vitamins": [
+      "E",
+      "B9"
+    ],
+    "minerals": [
+      "Cuivre",
+      "Chrome",
+      "Sodium",
+      "Calcium"
+    ]
+  },
+  {
+    "name": "Lait de chèvre",
+    "calories": 230,
+    "proteins": 17.4,
+    "carbohydrates": 0.1,
+    "fats": 24.4,
+    "fiber": 0,
+    "category": "Produits Laitiers",
+    "vitamins": [
+      "A",
+      "D",
+      "B12",
+      "B2"
+    ],
+    "minerals": [
+      "Calcium",
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Framboise",
+    "calories": 118,
+    "proteins": 1.7,
+    "carbohydrates": 19.3,
+    "fats": 0.5,
+    "fiber": 2.7,
+    "category": "Fruits",
+    "vitamins": [
+      "B2"
+    ],
+    "minerals": [
+      "Sélénium"
+    ]
+  },
+  {
+    "name": "Soursop",
+    "calories": 33,
+    "proteins": 1.8,
+    "carbohydrates": 22.2,
+    "fats": 0.4,
+    "fiber": 4.8,
+    "category": "Fruits",
+    "vitamins": [
+      "A",
+      "D",
+      "B2",
+      "B12"
+    ],
+    "minerals": [
+      "Magnesium",
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Grenade",
+    "calories": 31,
+    "proteins": 1.8,
+    "carbohydrates": 11.2,
+    "fats": 0.4,
+    "fiber": 4.4,
+    "category": "Fruits",
+    "vitamins": [
+      "B6",
+      "B5",
+      "K"
+    ],
+    "minerals": [
+      "Manganèse",
+      "Sodium"
+    ]
+  },
+  {
+    "name": "Cerise",
+    "calories": 104,
+    "proteins": 1.9,
+    "carbohydrates": 18.4,
+    "fats": 0.5,
+    "fiber": 5.0,
+    "category": "Fruits",
+    "vitamins": [
+      "B5",
+      "B3",
+      "D",
+      "K"
+    ],
+    "minerals": [
+      "Molybdène"
+    ]
+  },
+  {
+    "name": "Bison grillé(e)",
+    "calories": 147,
+    "proteins": 21.2,
+    "carbohydrates": 0,
+    "fats": 6.7,
+    "fiber": 0,
+    "category": "Viandes",
+    "vitamins": [
+      "B12",
+      "B6",
+      "B3"
+    ],
+    "minerals": [
+      "Potassium",
+      "Zinc",
+      "Phosphore"
+    ]
+  },
+  {
+    "name": "Lapin grillé(e)",
+    "calories": 140,
+    "proteins": 24.5,
+    "carbohydrates": 0,
+    "fats": 7.4,
+    "fiber": 0,
+    "category": "Viandes",
+    "vitamins": [
+      "B3",
+      "B6",
+      "B12",
+      "B1"
+    ],
+    "minerals": [
+      "Zinc",
+      "Phosphore",
+      "Potassium"
+    ]
+  },
+  {
+    "name": "Thym",
+    "calories": 39,
+    "proteins": 1.9,
+    "carbohydrates": 3.0,
+    "fats": 0.3,
+    "fiber": 2.7,
+    "category": "Légumes",
+    "vitamins": [
+      "E",
+      "K",
+      "D"
+    ],
+    "minerals": [
+      "Sodium",
+      "Cuivre"
+    ]
+  },
+  {
+    "name": "Clémentine",
+    "calories": 94,
+    "proteins": 1.5,
+    "carbohydrates": 12.6,
+    "fats": 0.1,
+    "fiber": 2.0,
+    "category": "Fruits",
+    "vitamins": [
+      "B3"
+    ],
+    "minerals": [
+      "Phosphore"
+    ]
+  }
+]

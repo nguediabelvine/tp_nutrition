@@ -27,9 +27,8 @@ pip3 install fastapi uvicorn sqlmodel pydantic email-validator
 if [ ! -f "nutrition.db" ]; then
     echo "🗄️ Création de la base de données SQLite..."
     python3 -c "
-from app.database import engine
-from app.models import Base
-Base.metadata.create_all(bind=engine)
+from app.database import create_db_and_tables
+create_db_and_tables()
 print('Base de données créée avec succès!')
 "
 fi

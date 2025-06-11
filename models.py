@@ -2,13 +2,14 @@ from typing import List, Optional
 from sqlmodel import SQLModel, Field, Relationship
 import datetime
 import json
+from sqlalchemy import Column, JSON
 
 class Aliment(SQLModel, table=True):
     id: Optional[int] = Field(default=None, primary_key=True)
     nom: str
     categorie: str
     calories: int
-    allergenes: str = Field(default="[]")  # Stocké comme JSON string
+    allergenes: Optional[List[str]] = Field(default_factory=list, sa_column=Column(JSON))
     image_url: Optional[str] = None
 
 class Utilisateur(SQLModel, table=True):
@@ -16,7 +17,7 @@ class Utilisateur(SQLModel, table=True):
     nom: str
     email: str = Field(index=True, unique=True)
     hashed_password: str
-    allergies: str = Field(default="[]")  # Stocké comme JSON string
+    allergies: Optional[List[str]] = Field(default_factory=list, sa_column=Column(JSON))
     is_active: bool = True
     is_superuser: bool = False
     plans_repas: List["PlanRepas"] = Relationship(back_populates="utilisateur")
@@ -53,4 +54,64 @@ class BuffetAliment(SQLModel, table=True):
     buffet_id: int = Field(foreign_key="buffet.id")
     aliment_id: int = Field(foreign_key="aliment.id")
     buffet: Optional[Buffet] = Relationship(back_populates="aliments")
-    aliment: Optional[Aliment] = Relationship() 
+    aliment: Optional[Aliment] = Relationship()
+
+class UserBase(SQLModel):
+    name: str
+    email: str = Field(unique=True, index=True)
+    allergies: Optional[List[str]] = Field(default_factory=list, sa_column=Column(JSON))
+
+class User(UserBase, table=True):
+    id: Optional[int] = Field(default=None, primary_key=True)
+    hashed_password: str
+    created_at: datetime = Field(default_factory=datetime.utcnow)
+    recommendations: List["Recommendation"] = Relationship(back_populates="user")
+
+class UserCreate(UserBase):
+    password: str
+
+class UserRead(UserBase):
+    id: int
+    created_at: datetime
+
+class FoodBase(SQLModel):
+    name: str = Field(index=True)
+    calories: float
+    proteins: float
+    carbohydrates: float
+    fats: float
+    fiber: float
+    category: str = Field(index=True)
+    vitamins: Optional[List[str]] = Field(default_factory=list, sa_column=Column(JSON))
+    minerals: Optional[List[str]] = Field(default_factory=list, sa_column=Column(JSON))
+
+class Food(FoodBase, table=True):
+    id: Optional[int] = Field(default=None, primary_key=True)
+    created_at: datetime = Field(default_factory=datetime.utcnow)
+    recommendations: List["Recommendation"] = Relationship(back_populates="food")
+
+class FoodCreate(FoodBase):
+    pass
+
+class FoodRead(FoodBase):
+    id: int
+    created_at: datetime
+
+class RecommendationBase(SQLModel):
+    user_id: int = Field(foreign_key="user.id")
+    food_id: int = Field(foreign_key="food.id")
+    reason: str
+    score: float
+
+class Recommendation(RecommendationBase, table=True):
+    id: Optional[int] = Field(default=None, primary_key=True)
+    created_at: datetime = Field(default_factory=datetime.utcnow)
+    user: User = Relationship(back_populates="recommendations")
+    food: Food = Relationship(back_populates="recommendations")
+
+class RecommendationCreate(RecommendationBase):
+    pass
+
+class RecommendationRead(RecommendationBase):
+    id: int
+    created_at: datetime 
