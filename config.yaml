@@ -1,0 +1,23 @@
+# Configuration des modèles de langage pour l'embedding
+embedding:
+  model_name: "all-MiniLM-L6-v2"
+  max_length: 512
+  device: "cpu"  # ou "cuda" si disponible
+
+# Configuration de la recherche sémantique
+semantic_search:
+  top_k: 10
+  similarity_threshold: 0.7
+
+# Configuration des recommandations
+recommendations:
+  max_calories_per_meal: 800
+  min_calories_per_meal: 300
+  max_meals_per_day: 3
+  days_per_plan: 7
+
+# Configuration de la sécurité
+security:
+  token_expire_minutes: 30
+  password_min_length: 8
+  max_login_attempts: 5 
