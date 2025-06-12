@@ -44,6 +44,8 @@ tp_nutrition/
 
 - Python 3.8+
 - pip
+- docker
+- docker-compose
 
 ### Installation
 
@@ -58,7 +60,12 @@ cd tp_nutrition
 pip install -r requirements_simple.txt
 ```
 
-3. **Démarrer l'API**
+3.1 **Démarrer l'API**
+```bash
+docker-compose up 
+```
+
+3.2 **Démarrer version simple de l'API**
 ```bash
 python main_simple.py
 ```
