@@ -1,6 +1,7 @@
 from sqlmodel import SQLModel, Field, Relationship
 from typing import Optional, List
 from datetime import datetime
+
 from sqlalchemy import Column, JSON
 
 class UserBase(SQLModel):

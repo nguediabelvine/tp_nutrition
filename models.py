@@ -1,6 +1,6 @@
 from typing import List, Optional
 from sqlmodel import SQLModel, Field, Relationship
-import datetime
+from datetime import datetime , date
 import json
 from sqlalchemy import Column, JSON
 
@@ -25,7 +25,7 @@ class Utilisateur(SQLModel, table=True):
 class PlanRepas(SQLModel, table=True):
     id: Optional[int] = Field(default=None, primary_key=True)
     utilisateur_id: int = Field(foreign_key="utilisateur.id")
-    semaine: datetime.date
+    semaine: date
     repas: List["RepasJour"] = Relationship(back_populates="plan_repas")
     utilisateur: Optional[Utilisateur] = Relationship(back_populates="plans_repas")
 

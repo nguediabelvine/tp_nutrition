@@ -1,0 +1,42 @@
+version: "3.9"
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: belvineange/nutrition-api:latest
+    container_name: fastapi-nutrition
+    command: uvicorn main_simple:app --host 0.0.0.0 --port 8000 --reload
+    volumes:
+      - .:/app
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+    environment:
+      DATABASE_URL: postgresql://nutrition_user:nutrition_password@db:5432/nutrition_db
+    networks:
+      - nutrition-net
+
+  db:
+    image: postgres:15
+    container_name: postgres-nutrition
+    restart: always
+    environment:
+      POSTGRES_USER: nutrition_user
+      POSTGRES_PASSWORD: nutrition_password
+      POSTGRES_DB: nutrition_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - nutrition-net
+
+volumes:
+  postgres_data:
+
+networks:
+  nutrition-net:
+    driver: bridge
